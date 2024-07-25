@@ -7,3 +7,5 @@ xhofe/alist:latest
 mysql
 redis
 cloudflare/cloudflared:latest
+apache/hertzbeat
+lissy93/dashy
