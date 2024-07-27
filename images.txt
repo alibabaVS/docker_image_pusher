@@ -12,3 +12,4 @@ apache/hertzbeat
 lissy93/dashy
 registry:2.8.3
 halohub/halo-pro:2.17.2
+metersphere/metersphere-ce-allinone:v3.1.0
