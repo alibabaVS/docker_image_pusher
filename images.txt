@@ -11,3 +11,4 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
 rancher/mirrored-library-busybox:1.36.1
+prom/prometheus:v2.54.0
