@@ -147,3 +147,4 @@ sonatype/nexus3:3.71.0
 rancher/klipper-helm:v0.8.4-build20240523
 rancher/klipper-lb:v0.4.9
 rancher/mirrored-library-traefik:2.10.7
+jumpserver/jms_all:v3.10.12
