@@ -20,3 +20,6 @@ kubesphere/fluentbit-operator:v0.14.0
 jimmidyson/configmap-reload:v0.7.1
 kubesphere/kube-state-metrics:v2.6.0
 prom/prometheus:v2.39.1
+istio/pilot:1.14.6
+jaegertracing/jaeger-operator:1.29
+kubesphere/kiali-operator:v1.50.1
