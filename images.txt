@@ -10,10 +10,4 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-
-
-
-
-
-
 nginx:1.18.0-alpine
