@@ -15,3 +15,7 @@ tailscale/tailscale:latest
 rancher/mirrored-metrics-server:v0.7.0
 rancher/mirrored-coredns-coredns:1.10.1
 rancher/local-path-provisioner:v0.0.28
+
+kubesphere/kube-state-metrics:v2.6.0
+kubesphere/notification-manager-operator:v2.3.0
+prom/prometheus:v2.39.1
