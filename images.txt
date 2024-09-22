@@ -24,3 +24,5 @@ goharbor/redis-photon:v2.5.3
 goharbor/harbor-db:v2.5.3
 goharbor/harbor-registryctl:v2.5.3
 goharbor/notary-server-photon:v2.5.3
+
+busybox:1.28
