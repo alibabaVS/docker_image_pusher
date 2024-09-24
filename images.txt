@@ -21,3 +21,4 @@ mysql:5.7.30
 
 wordpress
 apache/apisix-dashboard:3.0.0-alpine
+redis:6.0.9-alpine
