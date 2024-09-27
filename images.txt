@@ -23,3 +23,4 @@ wordpress
 apache/apisix-dashboard:3.0.0-alpine
 redis:6.0.9-alpine
 openjdk:8-jre-slim
+kubespheredev/kube-webhook-certgen:v1.1.1
