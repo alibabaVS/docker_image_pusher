@@ -26,3 +26,6 @@ openjdk:8-jre-slim
 kubespheredev/kube-webhook-certgen:v1.1.1
 kubesphere/openelb:v0.5.0
 aledbf/kube-keepalived-vip:0.35
+
+nacos/nacos-mysql:5.7
+nacos/nacos-server:latest
