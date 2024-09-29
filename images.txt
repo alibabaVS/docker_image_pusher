@@ -29,3 +29,5 @@ aledbf/kube-keepalived-vip:0.35
 
 nacos/nacos-mysql:5.7
 nacos/nacos-server:latest
+
+apache/rocketmq:4.9.6
