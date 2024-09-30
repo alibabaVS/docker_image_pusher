@@ -32,3 +32,4 @@ nacos/nacos-server:latest
 
 apache/rocketmq:4.9.6
 apache/rocketmq:5.3.0
+kubesphere/openelb-speaker:master
