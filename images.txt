@@ -22,3 +22,4 @@ mysql:5.7.30
 
 
 kubesphere/openelb-controller:master
+eclipse-temurin:8-jre
