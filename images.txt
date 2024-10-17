@@ -25,3 +25,4 @@ kubesphere/openelb-controller:master
 eclipse-temurin:8-jre
 java:8u92-jre-alpine
 nacos/nacos-operator:latest
+nacos/nacos-server:v2.0.3
