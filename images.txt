@@ -27,3 +27,4 @@ java:8u92-jre-alpine
 nacos/nacos-operator:latest
 nacos/nacos-server:v2.0.3
 node:20.18.0
+ghcr.io/gethomepage/homepage:v0.9.6
