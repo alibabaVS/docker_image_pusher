@@ -22,3 +22,4 @@ mysql:5.7.30
 
 
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.1.1
+docker.io/istio/pilot:1.23.2
