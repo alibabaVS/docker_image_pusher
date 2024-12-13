@@ -1,4 +1,4 @@
-nginx
+ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
@@ -29,4 +29,4 @@ kubespheredev/kubeeye-controller:v1.0.0
 kubesphere/kube-rbac-proxy:v0.11.0
 
 kubespheredev/kubeeye-job:v1.0.0
- 
+docker/dockerfile:1.2
