@@ -30,4 +30,4 @@ kubesphere/kube-rbac-proxy:v0.11.0
 
 kubespheredev/kubeeye-job:v1.0.0
 docker/dockerfile:1.2
-docker.io/continuumio/miniconda3:24.1.2-0
+continuumio/miniconda3:24.1.2-0
