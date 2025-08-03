@@ -35,3 +35,6 @@ oceanbase/kube-rbac-proxy:v0.13.1
 kubespheredev/kubeeye-job:v1.0.0
 docker/dockerfile:1.2
 continuumio/miniconda3:24.1.2-0
+
+golang:latest
+ubuntu:20.04
