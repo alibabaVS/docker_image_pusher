@@ -12,30 +12,4 @@ cloudflare/cloudflared:latest
 
 
 
-
-busybox:1.28
-kubesphere/etcd:v3.3.12
-busybox:1.32
-apache/apisix:1.5-alpine
-mysql:5.7.30
-
-
-
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.1.1
-docker.io/istio/pilot:1.23.2
-
-kubespheredev/kubeeye-apiserver:v1.0.0
-kubespheredev/kubeeye-controller:v1.0.0
-kubesphere/kube-rbac-proxy:v0.11.0
-
-
-kubesphere/kubectl:v1.33.1
-oceanbase/kube-rbac-proxy:v0.13.1
-
-kubespheredev/kubeeye-job:v1.0.0
-docker/dockerfile:1.2
-continuumio/miniconda3:24.1.2-0
-
-golang:latest
-ubuntu:20.04
-ghcr.io/yangchuansheng/ip_derper
+python:3.9.23-slim
