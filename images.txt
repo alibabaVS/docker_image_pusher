@@ -13,5 +13,5 @@ cloudflare/cloudflared:latest
 
 
 python:3.9.23-slim
-workflows-doc:latest
+
 hiyouga/llamafactory:latest
