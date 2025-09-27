@@ -11,8 +11,4 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
 
-
-python:3.9.23-slim
-
-hiyouga/llamafactory:latest
 moby/buildkit:buildx-stable-1 
