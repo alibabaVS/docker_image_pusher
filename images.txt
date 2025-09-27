@@ -11,4 +11,4 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
 
-hiyouga/pytorch:th2.6.0-cu124-flashattn2.7.4-cxx11abi0-devel
+ nvidia/cuda:12.4.0-base-ubuntu22.04
