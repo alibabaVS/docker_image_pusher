@@ -10,5 +10,5 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
+mongo:4.4
 
- nvidia/cuda:12.4.0-base-ubuntu22.04
