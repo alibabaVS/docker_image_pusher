@@ -10,5 +10,4 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-mongo:4.4
-
+docker.io/library/python:3.10-slim-bookworm
