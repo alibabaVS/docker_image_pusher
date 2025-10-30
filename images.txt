@@ -11,3 +11,5 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
 ghcr.io/bytebot-ai/bytebot-ui:edge
+ghcr.io/bytebot-ai/bytebot-desktop:edge
+ghcr.io/bytebot-ai/bytebot-agent:edge
