@@ -10,4 +10,4 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-node:20-alpine
+ghcr.io/bytebot-ai/bytebot-ui:edge
