@@ -10,4 +10,4 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-postgres:16-alpine
+node:20-alpine
