@@ -10,4 +10,4 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-ghcr.io/berriai/litellm:main-stable
+ubuntu:22.04
