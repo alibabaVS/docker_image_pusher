@@ -10,4 +10,4 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-ubuntu:22.04
+python:3.11-slim
