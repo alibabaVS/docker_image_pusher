@@ -10,8 +10,6 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-library/redis:7
-library/postgres:15
-paperlessngx/paperless-ngx:latest
-gotenberg/gotenberg:latest
-apache/tika:latest
+docker.io/library/redis:8
+docker.io/library/postgres:18
+docker.io/gotenberg/gotenberg:8.24
