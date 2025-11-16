@@ -10,5 +10,4 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-docker.io/searxng/searxng:latest
-docker.io/valkey/valkey:8-alpine
+node:18
