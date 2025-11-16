@@ -10,6 +10,5 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-docker.io/library/redis:8
-docker.io/library/postgres:18
-docker.io/gotenberg/gotenberg:8.24
+docker.io/searxng/searxng:latest
+docker.io/valkey/valkey:8-alpine
