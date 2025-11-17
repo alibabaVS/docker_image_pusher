@@ -10,4 +10,6 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-node:18
+docker.io/node:20-bookworm-slim
+ghcr.io/astral-sh/uv:0.9.7-python3.12-bookworm-slim
+s6-overlay-base
