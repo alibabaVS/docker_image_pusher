@@ -10,4 +10,8 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-nvidia/cuda:12.4.0-base-ubuntu22.04
+ghcr.io/karakeep-app/karakeep:latest
+gcr.io/zenika-hub/alpine-chrome:latest
+getmeili/meilisearch:v1.13.3
+ghcr.io/linkwarden/linkwarden:stable
+postgres:17-alpine
