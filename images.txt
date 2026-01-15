@@ -10,6 +10,5 @@ redis
 cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
-postgres:16-alpine
-ghcr.io/linkwarden/linkwarden:latest
-getmeili/meilisearch:v1.12.8
+
+gvenzl/oracle-xe:11.2.0.2-full
