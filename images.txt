@@ -13,4 +13,4 @@ cloudflare/cloudflared:latest
 
 gvenzl/oracle-xe:11.2.0.2-full
 --platform=linux/arm64 jc21/nginx-proxy-manager:latest
-
+openclaw/openclaw:latest
