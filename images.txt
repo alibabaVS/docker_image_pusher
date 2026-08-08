@@ -11,6 +11,6 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 apache/hertzbeat
 
 
-gvenzl/oracle-xe:11.2.0.2-full
---platform=linux/arm64 jc21/nginx-proxy-manager:latest
-openclaw/openclaw:latest
+--platform=linux/arm64 louislam/uptime-kuma:1
+
+
