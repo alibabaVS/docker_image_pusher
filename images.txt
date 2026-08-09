@@ -1,16 +1,17 @@
- nginx
+# nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-mysql
-mysql:8.2.0
-redis
-cloudflare/cloudflared:latest
---platform=linux/arm64 apache/hertzbeat
+# --platform=linux/arm64 xiaoyaliu/alist
+#mysql
+#mysql:8.2.0
+#redis
+#cloudflare/cloudflared:latest
+#--platform=linux/arm64 apache/hertzbeat
 
 
---platform=linux/arm64 louislam/uptime-kuma:1
+#--platform=linux/arm64 louislam/uptime-kuma:1
 
 
+--platform=linux/arm64 wjecee/cctv-proxy:latest
