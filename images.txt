@@ -15,3 +15,4 @@
 
 wjecee/cctv-proxy:latest
 --platform=linux/arm64 wjecee/cctv-proxy:latest
+
