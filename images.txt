@@ -13,5 +13,5 @@
 
 #--platform=linux/arm64 louislam/uptime-kuma:1
 
-
+wjecee/cctv-proxy:latest
 --platform=linux/arm64 wjecee/cctv-proxy:latest
